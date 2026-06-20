@@ -10,7 +10,7 @@
 <p align="center">Building ML Models &nbsp;•&nbsp; Data Pipelines &nbsp;•&nbsp; AI-Powered Analytics Solutions</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fresher+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=FRESHER" alt="Typing SVG" />
 </p>
 
 ---
